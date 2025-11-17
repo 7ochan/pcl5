@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pr1",
+    "farmerId": "f1",
+    "farmerName": "Rajesh Kumar",
+    "farmName": "Green Valley Farm",
+    "cropName": "Wheat",
+    "quantity": 5000,
+    "unit": "kg",
+    "expectedPrice": 25,
+    "priceUnit": "per kg",
+    "availableDate": "2025-12-01",
+    "location": "Ludhiana, Punjab",
+    "region": "Punjab",
+    "quality": "Grade A",
+    "organicCertified": false,
+    "description": "Premium wheat from Punjab. Clean and well-stored.",
+    "createdAt": "2025-11-10"
+  },
+  {
+    "id": "pr2",
+    "farmerId": "f2",
+    "farmerName": "Priya Sharma",
+    "farmName": "Sunrise Organic Farm",
+    "cropName": "Cotton",
+    "quantity": 3000,
+    "unit": "kg",
+    "expectedPrice": 65,
+    "priceUnit": "per kg",
+    "availableDate": "2025-11-25",
+    "location": "Nashik, Maharashtra",
+    "region": "Maharashtra",
+    "quality": "Premium",
+    "organicCertified": true,
+    "description": "Organic cotton, certified by Indian Organic Certification Agency.",
+    "createdAt": "2025-11-12"
+  }
+]

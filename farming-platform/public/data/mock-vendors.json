@@ -1,0 +1,35 @@
+[
+  {
+    "id": "v1",
+    "name": "AgriSupplies India",
+    "username": "agrisupplies_vendor",
+    "businessName": "AgriSupplies India Pvt Ltd",
+    "region": "Pan India",
+    "location": "Delhi, India",
+    "productsCount": 45,
+    "rating": 4.5,
+    "yearsInBusiness": 12
+  },
+  {
+    "id": "v2",
+    "name": "FarmTech Solutions",
+    "username": "farmtech_vendor",
+    "businessName": "FarmTech Solutions",
+    "region": "North India",
+    "location": "Chandigarh, India",
+    "productsCount": 28,
+    "rating": 4.7,
+    "yearsInBusiness": 8
+  },
+  {
+    "id": "v3",
+    "name": "Organic Essentials",
+    "username": "organic_vendor",
+    "businessName": "Organic Essentials Co.",
+    "region": "Maharashtra",
+    "location": "Pune, Maharashtra",
+    "productsCount": 35,
+    "rating": 4.8,
+    "yearsInBusiness": 6
+  }
+]

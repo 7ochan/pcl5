@@ -1,0 +1,82 @@
+{
+  "Wheat": {
+    "baseYield": 3500,
+    "unit": "kg per hectare",
+    "growthDays": 120,
+    "idealSoilN": 50,
+    "idealSoilP": 30,
+    "idealSoilK": 30,
+    "optimalTemp": 22,
+    "waterRequirement": "moderate"
+  },
+  "Rice": {
+    "baseYield": 4000,
+    "unit": "kg per hectare",
+    "growthDays": 140,
+    "idealSoilN": 55,
+    "idealSoilP": 35,
+    "idealSoilK": 35,
+    "optimalTemp": 28,
+    "waterRequirement": "high"
+  },
+  "Cotton": {
+    "baseYield": 2500,
+    "unit": "kg per hectare",
+    "growthDays": 180,
+    "idealSoilN": 40,
+    "idealSoilP": 25,
+    "idealSoilK": 40,
+    "optimalTemp": 30,
+    "waterRequirement": "moderate"
+  },
+  "Soybean": {
+    "baseYield": 2000,
+    "unit": "kg per hectare",
+    "growthDays": 100,
+    "idealSoilN": 30,
+    "idealSoilP": 30,
+    "idealSoilK": 35,
+    "optimalTemp": 26,
+    "waterRequirement": "moderate"
+  },
+  "Sugarcane": {
+    "baseYield": 70000,
+    "unit": "kg per hectare",
+    "growthDays": 300,
+    "idealSoilN": 60,
+    "idealSoilP": 40,
+    "idealSoilK": 50,
+    "optimalTemp": 28,
+    "waterRequirement": "high"
+  },
+  "Potato": {
+    "baseYield": 25000,
+    "unit": "kg per hectare",
+    "growthDays": 90,
+    "idealSoilN": 50,
+    "idealSoilP": 35,
+    "idealSoilK": 40,
+    "optimalTemp": 18,
+    "waterRequirement": "moderate"
+  },
+  "Chilli": {
+    "baseYield": 3000,
+    "unit": "kg per hectare",
+    "growthDays": 150,
+    "idealSoilN": 45,
+    "idealSoilP": 30,
+    "idealSoilK": 35,
+    "optimalTemp": 26,
+    "waterRequirement": "moderate"
+  },
+  "Tomato": {
+    "baseYield": 50000,
+    "unit": "kg per hectare",
+    "growthDays": 120,
+    "idealSoilN": 55,
+    "idealSoilP": 40,
+    "idealSoilK": 45,
+    "optimalTemp": 24,
+    "waterRequirement": "moderate"
+  }
+}

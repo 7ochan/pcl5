@@ -1,0 +1,330 @@
+{
+  "Punjab": {
+    "location": "Punjab",
+    "forecast": [
+      {
+        "date": "2025-11-17",
+        "day": "Today",
+        "temp": 22,
+        "minTemp": 14,
+        "maxTemp": 26,
+        "condition": "Sunny",
+        "humidity": 45,
+        "rainfall": 0,
+        "windSpeed": 12
+      },
+      {
+        "date": "2025-11-18",
+        "day": "Tomorrow",
+        "temp": 23,
+        "minTemp": 15,
+        "maxTemp": 27,
+        "condition": "Partly Cloudy",
+        "humidity": 50,
+        "rainfall": 0,
+        "windSpeed": 10
+      },
+      {
+        "date": "2025-11-19",
+        "day": "Wed",
+        "temp": 21,
+        "minTemp": 13,
+        "maxTemp": 25,
+        "condition": "Cloudy",
+        "humidity": 60,
+        "rainfall": 5,
+        "windSpeed": 15
+      },
+      {
+        "date": "2025-11-20",
+        "day": "Thu",
+        "temp": 20,
+        "minTemp": 12,
+        "maxTemp": 24,
+        "condition": "Light Rain",
+        "humidity": 70,
+        "rainfall": 15,
+        "windSpeed": 18
+      },
+      {
+        "date": "2025-11-21",
+        "day": "Fri",
+        "temp": 19,
+        "minTemp": 11,
+        "maxTemp": 23,
+        "condition": "Rain",
+        "humidity": 75,
+        "rainfall": 25,
+        "windSpeed": 20
+      },
+      {
+        "date": "2025-11-22",
+        "day": "Sat",
+        "temp": 21,
+        "minTemp": 13,
+        "maxTemp": 25,
+        "condition": "Partly Cloudy",
+        "humidity": 55,
+        "rainfall": 0,
+        "windSpeed": 14
+      },
+      {
+        "date": "2025-11-23",
+        "day": "Sun",
+        "temp": 22,
+        "minTemp": 14,
+        "maxTemp": 26,
+        "condition": "Sunny",
+        "humidity": 48,
+        "rainfall": 0,
+        "windSpeed": 11
+      }
+    ]
+  },
+  "Maharashtra": {
+    "location": "Maharashtra",
+    "forecast": [
+      {
+        "date": "2025-11-17",
+        "day": "Today",
+        "temp": 28,
+        "minTemp": 20,
+        "maxTemp": 32,
+        "condition": "Sunny",
+        "humidity": 35,
+        "rainfall": 0,
+        "windSpeed": 8
+      },
+      {
+        "date": "2025-11-18",
+        "day": "Tomorrow",
+        "temp": 29,
+        "minTemp": 21,
+        "maxTemp": 33,
+        "condition": "Sunny",
+        "humidity": 38,
+        "rainfall": 0,
+        "windSpeed": 9
+      },
+      {
+        "date": "2025-11-19",
+        "day": "Wed",
+        "temp": 27,
+        "minTemp": 19,
+        "maxTemp": 31,
+        "condition": "Partly Cloudy",
+        "humidity": 45,
+        "rainfall": 0,
+        "windSpeed": 10
+      },
+      {
+        "date": "2025-11-20",
+        "day": "Thu",
+        "temp": 26,
+        "minTemp": 18,
+        "maxTemp": 30,
+        "condition": "Cloudy",
+        "humidity": 50,
+        "rainfall": 2,
+        "windSpeed": 12
+      },
+      {
+        "date": "2025-11-21",
+        "day": "Fri",
+        "temp": 27,
+        "minTemp": 19,
+        "maxTemp": 31,
+        "condition": "Partly Cloudy",
+        "humidity": 42,
+        "rainfall": 0,
+        "windSpeed": 11
+      },
+      {
+        "date": "2025-11-22",
+        "day": "Sat",
+        "temp": 28,
+        "minTemp": 20,
+        "maxTemp": 32,
+        "condition": "Sunny",
+        "humidity": 40,
+        "rainfall": 0,
+        "windSpeed": 9
+      },
+      {
+        "date": "2025-11-23",
+        "day": "Sun",
+        "temp": 29,
+        "minTemp": 21,
+        "maxTemp": 33,
+        "condition": "Sunny",
+        "humidity": 37,
+        "rainfall": 0,
+        "windSpeed": 8
+      }
+    ]
+  },
+  "Uttar Pradesh": {
+    "location": "Uttar Pradesh",
+    "forecast": [
+      {
+        "date": "2025-11-17",
+        "day": "Today",
+        "temp": 24,
+        "minTemp": 16,
+        "maxTemp": 28,
+        "condition": "Sunny",
+        "humidity": 40,
+        "rainfall": 0,
+        "windSpeed": 10
+      },
+      {
+        "date": "2025-11-18",
+        "day": "Tomorrow",
+        "temp": 25,
+        "minTemp": 17,
+        "maxTemp": 29,
+        "condition": "Sunny",
+        "humidity": 42,
+        "rainfall": 0,
+        "windSpeed": 11
+      },
+      {
+        "date": "2025-11-19",
+        "day": "Wed",
+        "temp": 23,
+        "minTemp": 15,
+        "maxTemp": 27,
+        "condition": "Partly Cloudy",
+        "humidity": 48,
+        "rainfall": 0,
+        "windSpeed": 13
+      },
+      {
+        "date": "2025-11-20",
+        "day": "Thu",
+        "temp": 22,
+        "minTemp": 14,
+        "maxTemp": 26,
+        "condition": "Cloudy",
+        "humidity": 55,
+        "rainfall": 3,
+        "windSpeed": 15
+      },
+      {
+        "date": "2025-11-21",
+        "day": "Fri",
+        "temp": 21,
+        "minTemp": 13,
+        "maxTemp": 25,
+        "condition": "Light Rain",
+        "humidity": 65,
+        "rainfall": 12,
+        "windSpeed": 17
+      },
+      {
+        "date": "2025-11-22",
+        "day": "Sat",
+        "temp": 23,
+        "minTemp": 15,
+        "maxTemp": 27,
+        "condition": "Partly Cloudy",
+        "humidity": 50,
+        "rainfall": 0,
+        "windSpeed": 12
+      },
+      {
+        "date": "2025-11-23",
+        "day": "Sun",
+        "temp": 24,
+        "minTemp": 16,
+        "maxTemp": 28,
+        "condition": "Sunny",
+        "humidity": 44,
+        "rainfall": 0,
+        "windSpeed": 10
+      }
+    ]
+  },
+  "Andhra Pradesh": {
+    "location": "Andhra Pradesh",
+    "forecast": [
+      {
+        "date": "2025-11-17",
+        "day": "Today",
+        "temp": 30,
+        "minTemp": 22,
+        "maxTemp": 34,
+        "condition": "Sunny",
+        "humidity": 50,
+        "rainfall": 0,
+        "windSpeed": 14
+      },
+      {
+        "date": "2025-11-18",
+        "day": "Tomorrow",
+        "temp": 31,
+        "minTemp": 23,
+        "maxTemp": 35,
+        "condition": "Sunny",
+        "humidity": 48,
+        "rainfall": 0,
+        "windSpeed": 13
+      },
+      {
+        "date": "2025-11-19",
+        "day": "Wed",
+        "temp": 29,
+        "minTemp": 21,
+        "maxTemp": 33,
+        "condition": "Partly Cloudy",
+        "humidity": 55,
+        "rainfall": 0,
+        "windSpeed": 15
+      },
+      {
+        "date": "2025-11-20",
+        "day": "Thu",
+        "temp": 28,
+        "minTemp": 20,
+        "maxTemp": 32,
+        "condition": "Cloudy",
+        "humidity": 60,
+        "rainfall": 5,
+        "windSpeed": 16
+      },
+      {
+        "date": "2025-11-21",
+        "day": "Fri",
+        "temp": 29,
+        "minTemp": 21,
+        "maxTemp": 33,
+        "condition": "Partly Cloudy",
+        "humidity": 52,
+        "rainfall": 0,
+        "windSpeed": 14
+      },
+      {
+        "date": "2025-11-22",
+        "day": "Sat",
+        "temp": 30,
+        "minTemp": 22,
+        "maxTemp": 34,
+        "condition": "Sunny",
+        "humidity": 49,
+        "rainfall": 0,
+        "windSpeed": 13
+      },
+      {
+        "date": "2025-11-23",
+        "day": "Sun",
+        "temp": 31,
+        "minTemp": 23,
+        "maxTemp": 35,
+        "condition": "Sunny",
+        "humidity": 47,
+        "rainfall": 0,
+        "windSpeed": 12
+      }
+    ]
+  }
+}
