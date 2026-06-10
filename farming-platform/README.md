@@ -459,6 +459,22 @@ For questions or issues with this MVP:
 - ✅ README with instructions
 - ✅ CSV export functionality
 
+## Developer Notes
+
+- Mock datasets live in `public/data` and are loaded by the client during runtime.
+- Shared app state is managed in `src/context/AppContext.jsx`.
+- Deterministic AI-style calculations are implemented in `src/utils/aiCalculations.js`.
+- Page-level flows are grouped under `src/pages` for farmers, vendors, marketplace, profile, and community views.
+
+## Demo Checklist
+
+Before presenting the MVP, run the app locally and verify:
+
+1. Farmer and vendor demo login paths open the correct dashboards.
+2. Marketplace items can be browsed and added to the cart.
+3. Community posts and comments work with the in-memory mock data.
+4. CSV export still downloads the expected dashboard data.
+
 ---
 
 **Built with ❤️ for demonstration purposes**
